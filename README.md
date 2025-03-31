@@ -64,7 +64,10 @@ Open in a browser:
 ```
 http://localhost:3000
 ```
-
+### **4️⃣ Start capturing packets
+```
+python3 captureTraffic.py
+```
 ---
 
 ## 🛠️ Technologies Used
